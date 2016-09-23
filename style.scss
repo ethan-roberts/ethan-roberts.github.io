@@ -32,7 +32,9 @@ body {
 
 table, th, td {
 	border: 2px solid black;
+	border-collapse: collapse;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
