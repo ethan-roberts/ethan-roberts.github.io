@@ -290,3 +290,9 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+body {
+	background-image: url("http://bgfons.com/upload/light_texture2258.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
