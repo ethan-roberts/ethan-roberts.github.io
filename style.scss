@@ -301,3 +301,7 @@ body {
 table {
 	border-collapse: collapse;
 }
+
+table, th, td {
+	border: 2px solid black;
+}
