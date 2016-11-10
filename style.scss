@@ -252,6 +252,7 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+
 }
 
 .post {
@@ -321,3 +322,10 @@ footer {
     height: 65px;
     opacity: 1;
 }    
+
+div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
